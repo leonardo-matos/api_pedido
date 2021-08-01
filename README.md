@@ -2,20 +2,20 @@
 
 Caminho dos arquivos principais que foram utilizados para o desenvolvimento do teste
 
-api\source\index.php
+api_pedido\source\index.php
 
-api\source\src\pedido\Controller\Pmweb_Orders_Stats_Controller.php
+api_pedido\source\src\pedido\Controller\Pmweb_Orders_Stats_Controller.php
 
-api\source\src\pedido\Controller\PedidoController.php
+api_pedido\source\src\pedido\Controller\PedidoController.php
 
-api\source\src\pedido\Model\Pmweb_Orders_Stats_Model.php
+api_pedido\source\src\pedido\Model\Pmweb_Orders_Stats_Model.php
 
-api\source\src\pedido\Model\PedidoModel.php
+api_pedido\source\src\pedido\Model\PedidoModel.php
 
 
 Arquivos de configuração de ambiente
 
-api\source\src\Core\Configure\Config.php
+api_pedido\source\src\Core\Configure\Config.php
 
 Observações:
 
